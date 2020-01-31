@@ -3,8 +3,12 @@ class Shoe
     @brand = brand
   end
 
+attr_reader :
 attr_reader 
-
+attr_reader 
+attr_reader 
+attr_reader 
+attr_reader 
 
 end
     
