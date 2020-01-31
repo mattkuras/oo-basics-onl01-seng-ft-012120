@@ -25,7 +25,7 @@ end
 
 def genre=(genre)
   @genre = genre 
-en
+end
 
 def genre 
   @genre 
