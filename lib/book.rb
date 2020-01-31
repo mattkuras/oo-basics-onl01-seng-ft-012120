@@ -15,12 +15,12 @@ def author
   @author
 end
 
-def paige_count=(num)
-  @paige_count = num
+def page_count=(num)
+  @page_count = num
 end
 
-def paige_count
-  @paige_count
+def page_count
+  @page_count
 end
 
 def genre=(genre)
@@ -31,6 +31,7 @@ def genre
   @genre 
 end 
 
-
+def turn_page
+  
 end
 
