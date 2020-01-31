@@ -23,6 +23,14 @@ def paige_count
   @paige_count
 end
 
+def genre=(genre)
+  @genre = genre 
+en
+
+def genre 
+  @genre 
+end 
+
 
 end
 
