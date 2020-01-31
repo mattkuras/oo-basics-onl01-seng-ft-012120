@@ -4,14 +4,12 @@ class Shoe
   end
 
 attr_reader :brand
-attr_reader :color 
-attr_reader :size 
-attr_reader :material 
-attr_reader :condition
+
+attr_accessor :color, :size, :material, :condition
 
   def cobble
     puts "Shoe has been repaired."
-    conidition = "new"
+    shoe.conidition = "new"
 end 
 end
     
